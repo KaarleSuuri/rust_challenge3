@@ -1,0 +1,3 @@
+The program uses a timer interrupt to control the color of the lcd display.
+It is implemented by incrementing a static mut counter in the timer
+interrupt handler.
